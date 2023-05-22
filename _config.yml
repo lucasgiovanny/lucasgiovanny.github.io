@@ -5,3 +5,8 @@ author:
 
 theme: minima
 markdown: kramdown
+
+header_pages:
+   - about.md
+   - talks.md
+   - social.md
