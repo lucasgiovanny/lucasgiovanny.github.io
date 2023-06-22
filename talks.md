@@ -12,6 +12,10 @@ In the enlightening talk titled "Escalate Microservices with gRPC and PHP," atte
 
 _Recording not available yet_
 
+This talk was also given in:
+- 🇵🇹 PHP Portugal #10 - Lisbon
+- 🇬🇧 Laravel Live UK 2023 - London
+
 ### PHP 5.3 to 8.2: what are you missing?
 
 🇵🇹 WordCamp, Lisbon, May 2023
