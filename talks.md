@@ -4,6 +4,16 @@ title: Talks
 permalink: /talks/
 ---
 
+### From Good to Great: Elevating Your Documentation Skills
+
+🇧🇪 FullStack EU, Antwerp, October 2023
+
+Documentation serves as the bridge that connects users, developers, and stakeholders to your products or services. Yet, moving beyond "good" documentation to achieve greatness can make a substantial difference in user experience, collaboration, and project success.
+
+Discover the transformative journey of turning your documentation from good to exceptional. In this session, explore effective strategies for user-centric content, tools, and collaborative processes that will elevate your documentation's impact, fostering user satisfaction and efficient teamwork.
+
+_Recording not available yet_
+
 ### Escalate microservices with gRPC and PHP
 
 🇵🇹 Laracon EU, Lisbon, January 2023
