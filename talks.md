@@ -14,6 +14,9 @@ Discover the transformative journey of turning your documentation from good to e
 
 _Recording not available yet_
 
+This talk was also given in:
+- 🇩🇰 Laravel CPH - Copenhagen
+
 ### Escalate microservices with gRPC and PHP
 
 🇵🇹 Laracon EU, Lisbon, January 2023
