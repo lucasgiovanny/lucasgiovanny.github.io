@@ -16,6 +16,8 @@ _Recording not available yet_
 
 This talk was also given in:
 - 🇩🇰 Laravel CPH - Copenhagen
+- 🇵🇹 PHP Portugal #13 - Viseu
+- 🇩🇰 Laravel Live DK 2024 - Copenhagen
 
 ### Escalate microservices with gRPC and PHP
 
