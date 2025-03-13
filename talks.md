@@ -43,3 +43,11 @@ In this talk, we'll explore the evolution of PHP from 5.3 to 8, and dive into so
 This talk was also given in:
 - 🇵🇹 PHP Portugal #2 - Lisbon
 - 🇵🇹 PHP Portugal #6 - Porto
+
+### Filament PHP Deep Dive: Speed, Power, and Performance Hacks
+
+🇮🇳 Laracon India, Ahmedabad, March 2025
+
+Filament PHP has revolutionized how developers build admin panels and dashboards in Laravel, offering a fast and flexible solution. But as with any tool, performance pitfalls can arise. In this talk, we’ll introduce Filament’s core features, explore its powerful customization options, and address common performance caveats. I will also introduce brand new features from Filament 4 coming up soon
+
+<br>
