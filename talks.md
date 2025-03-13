@@ -30,6 +30,7 @@ _Recording not available yet_
 This talk was also given in:
 - 🇵🇹 PHP Portugal #10 - Lisbon
 - 🇬🇧 Laravel Live UK 2023 - London
+- 🇪🇸 PHP Talks #4 - Barcelona
 
 ### PHP 5.3 to 8.2: what are you missing?
 
