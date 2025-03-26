@@ -25,7 +25,8 @@ This talk was also given in:
 
 In the enlightening talk titled "Escalate Microservices with gRPC and PHP," attendees were immersed in a captivating exploration of the powerful combination of gRPC and PHP in the context of microservices architecture. The speaker delved into the intricacies of gRPC, an open-source remote procedure call framework, and elucidated how it fosters efficient communication and scalability among microservices. With a keen focus on PHP, the popular scripting language, the talk unraveled the seamless integration of gRPC into PHP ecosystems, empowering developers to construct robust and high-performing microservices. Participants left the session inspired and armed with valuable insights to revolutionize their microservices development paradigm.
 
-_Recording not available yet_
+<iframe width="740" height="416.25" src="https://www.youtube.com/embed/ikFSXt8VYE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
 
 This talk was also given in:
 - 🇵🇹 PHP Portugal #10 - Lisbon
@@ -50,5 +51,7 @@ This talk was also given in:
 🇮🇳 Laracon India, Ahmedabad, March 2025
 
 Filament PHP has revolutionized how developers build admin panels and dashboards in Laravel, offering a fast and flexible solution. But as with any tool, performance pitfalls can arise. In this talk, we’ll introduce Filament’s core features, explore its powerful customization options, and address common performance caveats. I will also introduce brand new features from Filament 4 coming up soon
+
+_Recording not available yet_
 
 <br>
