@@ -52,6 +52,6 @@ This talk was also given in:
 
 Filament PHP has revolutionized how developers build admin panels and dashboards in Laravel, offering a fast and flexible solution. But as with any tool, performance pitfalls can arise. In this talk, we’ll introduce Filament’s core features, explore its powerful customization options, and address common performance caveats. I will also introduce brand new features from Filament 4 coming up soon
 
-_Recording not available yet_
+<iframe width="740" height="416.25" src="https://www.youtube.com/embed/33CIhvkAPEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
