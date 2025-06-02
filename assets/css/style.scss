@@ -1,0 +1,276 @@
+@import "minima";
+
+// Dracula Theme Colors
+$dracula-background: #282a36;
+$dracula-current-line: #44475a;
+$dracula-selection: #44475a;
+$dracula-foreground: #f8f8f2;
+$dracula-comment: #6272a4;
+$dracula-cyan: #8be9fd;
+$dracula-green: #50fa7b;
+$dracula-orange: #ffb86c;
+$dracula-pink: #ff79c6;
+$dracula-purple: #bd93f9;
+$dracula-red: #ff5555;
+$dracula-yellow: #f1fa8c;
+
+// Apply Dracula theme
+body {
+  background-color: $dracula-background !important;
+  color: $dracula-foreground !important;
+}
+
+// Header styling
+.site-header {
+  background-color: $dracula-current-line !important;
+  border-bottom: 1px solid $dracula-selection !important;
+  
+  .site-title {
+    color: $dracula-purple !important;
+    font-weight: bold;
+    
+    &:hover {
+      color: $dracula-pink !important;
+      text-decoration: none;
+    }
+  }
+  
+  .site-nav {
+    .page-link {
+      color: $dracula-cyan !important;
+      
+      &:hover {
+        color: $dracula-green !important;
+      }
+    }
+    
+    .trigger {
+      .page-link {
+        color: $dracula-cyan !important;
+      }
+    }
+  }
+}
+
+// Main content
+.site-title, .post-title, h1, h2, h3, h4, h5, h6 {
+  color: $dracula-purple !important;
+}
+
+// Links
+a {
+  color: $dracula-cyan !important;
+  
+  &:hover {
+    color: $dracula-pink !important;
+  }
+  
+  &:visited {
+    color: $dracula-purple !important;
+  }
+}
+
+// Code blocks
+pre, code {
+  background-color: $dracula-current-line !important;
+  color: $dracula-green !important;
+  border: 1px solid $dracula-selection !important;
+}
+
+.highlight {
+  background-color: $dracula-current-line !important;
+  
+  .c { color: $dracula-comment !important; } // Comments
+  .k { color: $dracula-pink !important; } // Keywords
+  .n { color: $dracula-foreground !important; } // Names
+  .s { color: $dracula-yellow !important; } // Strings
+  .nb { color: $dracula-cyan !important; } // Built-ins
+  .nf { color: $dracula-green !important; } // Functions
+}
+
+// Footer
+.site-footer {
+  background-color: $dracula-current-line !important;
+  border-top: 1px solid $dracula-selection !important;
+  color: $dracula-comment !important;
+  
+  .footer-heading {
+    color: $dracula-purple !important;
+  }
+  
+  a {
+    color: $dracula-cyan !important;
+    
+    &:hover {
+      color: $dracula-green !important;
+    }
+  }
+}
+
+// Post content
+.post-content {
+  color: $dracula-foreground !important;
+  
+  p {
+    color: $dracula-foreground !important;
+  }
+  
+  img {
+    border: 2px solid $dracula-current-line;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  }
+}
+
+// Home page posts
+.post-list {
+  .post-link {
+    color: $dracula-purple !important;
+    
+    &:hover {
+      color: $dracula-pink !important;
+    }
+  }
+  
+  .post-meta {
+    color: $dracula-comment !important;
+  }
+}
+
+// Table styling
+table {
+  background-color: $dracula-current-line !important;
+  border: 1px solid $dracula-selection !important;
+  
+  th {
+    background-color: $dracula-selection !important;
+    color: $dracula-purple !important;
+    border-bottom: 2px solid $dracula-comment !important;
+  }
+  
+  td {
+    color: $dracula-foreground !important;
+    border-bottom: 1px solid $dracula-comment !important;
+  }
+}
+
+// Wrapper and layout improvements
+.wrapper {
+  max-width: calc(#{$content-width} - (#{$spacing-unit}));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: $spacing-unit / 2;
+  padding-left: $spacing-unit / 2;
+}
+
+// Mobile responsive adjustments
+@media screen and (max-width: 800px) {
+  .site-nav {
+    background-color: $dracula-current-line !important;
+    border: 1px solid $dracula-selection !important;
+    border-radius: 5px;
+  }
+}
+
+// Button styling (if any)
+.btn, button, input[type="submit"] {
+  background-color: $dracula-purple !important;
+  color: $dracula-background !important;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  
+  &:hover {
+    background-color: $dracula-pink !important;
+  }
+}
+
+// Selection highlighting
+::selection {
+  background-color: $dracula-selection !important;
+  color: $dracula-foreground !important;
+}
+
+::-moz-selection {
+  background-color: $dracula-selection !important;
+  color: $dracula-foreground !important;
+}
+
+// YouTube embeds and iframe styling
+iframe {
+  border: 2px solid $dracula-current-line !important;
+  border-radius: 8px !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4) !important;
+  margin: 20px 0 !important;
+  max-width: 100% !important;
+  height: auto !important;
+}
+
+// Enhanced spacing and typography
+.page-content {
+  padding: 30px 0;
+}
+
+h3 {
+  margin-top: 40px !important;
+  margin-bottom: 20px !important;
+  border-bottom: 2px solid $dracula-purple !important;
+  padding-bottom: 10px !important;
+}
+
+// Improved paragraph spacing
+p {
+  margin-bottom: 20px !important;
+  line-height: 1.6 !important;
+}
+
+// Enhanced list styling for talks
+ul, ol {
+  li {
+    margin-bottom: 8px !important;
+    color: $dracula-foreground !important;
+  }
+}
+
+// Flag emojis and location styling
+.post-content {
+  // Style for conference locations and flags
+  strong {
+    color: $dracula-yellow !important;
+  }
+  
+  em {
+    color: $dracula-comment !important;
+    font-style: italic;
+  }
+}
+
+// Hover effects for better interactivity
+.post-content a {
+  transition: color 0.3s ease !important;
+  text-decoration: underline !important;
+  text-decoration-color: $dracula-cyan !important;
+  
+  &:hover {
+    text-decoration-color: $dracula-pink !important;
+  }
+}
+
+// Better mobile responsiveness for YouTube embeds
+@media screen and (max-width: 800px) {
+  iframe {
+    width: 100% !important;
+    height: 250px !important;
+  }
+}
+
+// Blockquote styling (if any)
+blockquote {
+  background-color: $dracula-current-line !important;
+  border-left: 4px solid $dracula-purple !important;
+  color: $dracula-foreground !important;
+  padding: 15px 20px !important;
+  margin: 20px 0 !important;
+  border-radius: 0 8px 8px 0 !important;
+} 
