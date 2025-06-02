@@ -2,8 +2,31 @@
 layout: home
 ---
 
-<img src="/laraconeu.jpeg" width="100%" />
+# 👋 Hi, I'm Lucas Giovanny
 
-Lucas is an experienced software engineer with over a decade of experience in PHP and frameworks such as Laravel and Symfony. He is passionate about contributing to open-source projects and has made significant contributions to well-known packages and frameworks like Laravel Core, Pest PHP, and Filament PHP. In addition to his open-source work, Lucas has had the opportunity to speak at meetups and conferences such as 🇵🇹 [Laracon EU 2023](https://laracon.eu), 🇬🇧 [Laravel Live UK 2023](https://laravellive.uk), 🇧🇪 [FullStack EU 2023](https://fullstackeurope.com/2023), 🇩🇰 [Laravel Live DK](https://laravellive.dk) and 🇮🇳 [Laracon India 2025](https://laracon.in).
+I'm a software engineer specializing in **Laravel**, performance, and modern application architecture. I've contributed to projects like Laravel Core, Pest PHP, and Filament, and I've spoken at events like Laracon EU, Laravel Live UK, and FullStack Europe.
 
-Currently, Lucas serves as the Engineering Team Lead at [Worksome](https://worksome.com), where he leverages his extensive experience in team management and leadership. With previous roles as Team Lead and CTO, he has honed his skills in guiding development teams to deliver high-quality software solutions. His comprehensive understanding of the web development industry, combined with his leadership abilities, allows him to effectively collaborate with his team and drive projects to successful completion.
+Currently, I lead engineering teams and help companies and developers build faster, more scalable, and maintainable applications.
+
+---
+
+## 🚀 How I can help
+
+### ✅ Technical Consulting
+Audits, performance-focused code reviews, refactoring plans, and architectural guidance for Laravel teams.
+
+### 🎓 Developer Mentorship
+Individual and group mentoring programs for developers aiming to level up their skills and career.
+
+### 🧠 Corporate Workshops & Talks
+Tailored training sessions and in-house workshops for tech teams, from fundamentals to advanced Laravel topics.
+
+👉 [See all services in detail](/services/)
+
+---
+
+## 🎤 Conferences I've spoken at
+
+🇵🇹 Laracon EU · 🇬🇧 Laravel Live UK · 🇧🇪 FullStack EU · 🇩🇰 Laravel Live DK · 🇮🇳 Laracon India
+
+📅 [Book a consultation](mailto:lucasgiovanny@gmail.com) or [📘 join the next mentorship group](mailto:lucasgiovanny@gmail.com)

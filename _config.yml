@@ -7,5 +7,6 @@ theme: minima
 markdown: kramdown
 
 header_pages:
-   - about.md
-   - talks.md
+  - about.md
+  - talks.md
+  - services.md
